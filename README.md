@@ -46,6 +46,12 @@
 - [cite_start]🔸 **Citi** – Services Job Simulation [cite: 79, 81] | [View Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/tJ3ENBW8jgwYzTRmv_8eNRcRqBZM9HLvwGw_69704c5d585446f8788842b0_1769780217697_completion_certificate.pdf)
   * [cite_start]*Skills:* Raw Data Visualization, Insights & Client Recommendation [cite: 87, 88]
 
+#### 🎓 Verified Academy Certifications (Coursera)
+- [cite_start]📜 **Operating Systems Fundamentals** – *Akamai Technologies* | [Verify Credential](https://coursera.org/verify/W2Z8YQ1TRUIE) [cite: 115, 116, 125]
+- [cite_start]📜 **Introduction to Software Engineering** – *IBM* | [Verify Credential](https://coursera.org/verify/JRLR55X59BB7) [cite: 157, 158, 170]
+- [cite_start]📜 **Foundations of Project Management** – *Google* | [Verify Credential](https://coursera.org/verify/VVQ4WVHUANZL) [cite: 181, 182, 194]
+- [cite_start]🧪 **Relational Database with Go: Build an Article Search Engine** – *Guided Project* | [Verify Credential](https://coursera.org/verify/N3ADYJ08LR2N) [cite: 138, 147]
+
 ---
 
 ### 📊 My GitHub Stats:
