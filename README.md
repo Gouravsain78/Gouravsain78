@@ -59,5 +59,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gouravsain78&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180M" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gouravsain78&theme=gotham" alt="Streak Stats" height="180M" />
 </p>
-* 🛠️ **Minor Project:** Built a COVID-19 Patient Prediction & Data Science model to analyze clinical metrics and forecast patient outcomes.
+---
+
+### 💼 Virtual Internships & Hands-On Projects:
+- 🏢 **Software Development Engineering Intern**
+  * 🚀 **Major Project:** Heart Disease Classification – Architected predictive Machine Learning models (Random Forest, Logistic Regression) to categorize cardiac risks with 85.25% accuracy.
+    👉 [Explore Source Code 💻](https://github.com/Gouravsain78/Heart-Disease-Prediction-ML) | [Google Colab 📓](https://colab.research.google.com/drive/1bPJEmflJ0LazzlBf6X9tqwHwFjODNE1_)
+  * 🛠️ **Minor Project:** COVID-19 Patient Prediction – Built an exploratory data analytics system to parse infectious trend clusters and recovery duration metrics.
     👉 [Explore Source Code 💻](https://github.com/Gouravsain78/COVID19-Patient-Prediction-Data-Science)
+
+---
