@@ -61,11 +61,14 @@
 </p>
 ---
 
+---
+
 ### 💼 Virtual Internships & Hands-On Projects:
-- 🏢 **Software Development Engineering Intern**
-  * 🚀 **Major Project:** Heart Disease Classification – Architected predictive Machine Learning models (Random Forest, Logistic Regression) to categorize cardiac risks with 85.25% accuracy.
-    👉 [Explore Source Code 💻](https://github.com/Gouravsain78/Heart-Disease-Prediction-ML) | [Google Colab 📓](https://colab.research.google.com/drive/1bPJEmflJ0LazzlBf6X9tqwHwFjODNE1_)
-  * 🛠️ **Minor Project:** COVID-19 Patient Prediction – Built an exploratory data analytics system to parse infectious trend clusters and recovery duration metrics.
+- 🏢 **Data Science Intern** – *EdiGlobe (Ministry of MSME, Govt. of India)*
+  * 📜 **Credentials:** [Internship Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/certificates_EGICZ0929.pdf)[cite: 18] | [Program Completion Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/certificates_EGCC1524.pdf)[cite: 17] | [Project Completion Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/certificates_EGPC1412%20(1).pdf)[cite: 19]
+  * 🚀 **Major Project:** Heart Disease Classification – Architected predictive Machine Learning models (Random Forest, Logistic Regression) to categorize cardiac risks with 85.25% accuracy.[cite: 15, 16]
+    👉 [Explore Source Code 💻](https://github.com/Gouravsain78/Heart-Disease-Prediction-ML) | [Google Colab 📓](https://colab.research.google.com/drive/1bPJEmflJ0LazzlBf6X9tqwHwFjODNE1_)[cite: 15]
+  * 🛠️ **Minor Project:** COVID-19 Patient Prediction – Built an exploratory data analytics system to parse infectious trend clusters and recovery duration metrics.[cite: 12]
     👉 [Explore Source Code 💻](https://github.com/Gouravsain78/COVID19-Patient-Prediction-Data-Science)
 
 ---
