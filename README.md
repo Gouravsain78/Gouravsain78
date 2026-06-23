@@ -34,29 +34,33 @@
   * 🛠️ **Minor Project:** COVID-19 Patient Prediction – Built an exploratory data analytics system to parse infectious trend clusters and recovery duration metrics.[cite: 12]
     👉 [Explore Source Code 💻](https://github.com/Gouravsain78/COVID19-Patient-Prediction-Data-Science)
 
+- 🏢 **Software Development Intern** – *SkillCraft Technology (Ministry of MSME, Govt. of India)*[cite: 39]
+  * 📜 **Credentials:** [View Completion Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/skill%20craft.pdf)[cite: 39]
+  * 🚀 **Featured Project:** WhatsApp Automated Chatbot – Developed an automated backend chat assistant to streamline response triggers and messaging workflows.
+
 ---
 
 ### 🏆 Hackathons & Technical Exhibitions:
-- 🚀 **Design-A-Thon (Code Red 4.0):** Participated with Team "LOCK-DOWN" in the 3-day national event | [View Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/participation%20certificate%202.pdf)[cite: 49]
-- 🎨 **ALGOरंग Project Exhibition:** Showcased core engineering models under the Computer Science division | [View Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/participation%20certificate.pdf)[cite: 48]
-- 🤖 **Artificial Intelligence Workshop:** Gained hands-on model deployment exposure with AI Academia | [View Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/Gourav%20sain%20Certificate.pdf)[cite: 47]
+- 🚀 **Design-A-Thon (Code Red 4.0):** Participated with Team "LOCK-DOWN" in the 3-day national event | [View Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/participation%20certificate%202.pdf)
+- 🎨 **ALGOरंग Project Exhibition:** Showcase of engineering innovations under the Computer Science division | [View Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/participation%20certificate.pdf)
+- 🤖 **Artificial Intelligence Workshop:** Gained hands-on model deployment exposure with AI Academia | [View Certificate](https://github.com/Gouravsain78/Gouravsain78/blob/main/Gourav%20sain%20Certificate.pdf)
 
 ---
 
 ### ☁️ Microsoft Azure & Power BI Workspace:
 
 #### 📊 Power BI & Advanced Business Intelligence
-- 🛠️ **Clean, transform, and load data in Power BI**[cite: 41]
+- 🛠️ **Clean, transform, and load data in Power BI**
 - 📉 **Prepare and visualize data with Microsoft Power BI**[cite: 20]
 - 🎨 **Design Power BI reports**[cite: 24]
 - 🧠 **Configure a semantic model**[cite: 25]
 - 🤖 **Get started with Copilot in Power BI**[cite: 23]
 - 🏗️ **Introduction to end-to-end analytics using Microsoft Fabric**[cite: 22]
-- 📥 **Get data in Power BI** & **Get started building with Power BI**[cite: 42, 43]
-- 🔍 **Discover data analysis** & **Get started with Microsoft data analytics**[cite: 21, 44]
+- 📥 **Get data in Power BI** & **Get started building with Power BI**
+- 🔍 **Discover data analysis** & **Get started with Microsoft data analytics**[cite: 21]
 
 #### 🖥️ Azure Cloud Architecture & Infrastructure
-- 🌐 **Introduction to Cloud Infrastructure**[cite: 40]
+- 🌐 **Introduction to Cloud Infrastructure**
 - 🏗️ **Describe the core architectural components of Azure**[cite: 30]
 - 🧮 **Describe Azure compute and networking services**[cite: 29]
 - 💾 **Describe Azure storage services**[cite: 28]
@@ -74,8 +78,8 @@
 ---
 
 ### 🎖️ Micro-Badges & Professional Competitions:
-- ☁️ **Google Cloud Platform:** Practice Exam for Google Cloud Digital Leader – *LinkedIn Learning*[cite: 46]
-- 🎯 **Competitive Analytics:** Successfully qualified for the *Jaipuria Quiz League 2025*[cite: 45]
+- ☁️ **Google Cloud Platform:** Practice Exam for Google Cloud Digital Leader – *LinkedIn Learning*
+- 🎯 **Competitive Analytics:** Successfully qualified for the *Jaipuria Quiz League 2025*
 
 ---
 
